@@ -1,0 +1,6 @@
+fun\cloudtour\config\rocket\ExchangeTradeListener.class
+fun\cloudtour\config\rocket\Sink.class
+fun\cloudtour\mappers\TradeAreaDtoMappers.class
+fun\cloudtour\mappers\MarketDtoMappers.class
+fun\cloudtour\mappers\MarketDtoMappersImpl.class
+fun\cloudtour\mappers\TradeAreaDtoMappersImpl.class

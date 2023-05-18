@@ -1,0 +1,4 @@
+fun\cloudtour\gateway\GatewayServerApplication.class
+fun\cloudtour\gateway\filter\TokenCheckFilter.class
+fun\cloudtour\gateway\controller\GatewayFlowRulesController.class
+fun\cloudtour\gateway\config\CorsConfig.class

@@ -1,0 +1,5 @@
+fun\cloudtour\dto\TradeAreaDto.class
+fun\cloudtour\dto\TradeMarketDto.class
+fun\cloudtour\feign\TradingAreaServiceClient.class
+fun\cloudtour\feign\MarketServiceFeign.class
+fun\cloudtour\dto\MarketDto.class

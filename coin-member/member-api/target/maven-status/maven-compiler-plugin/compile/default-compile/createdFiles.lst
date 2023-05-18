@@ -1,0 +1,4 @@
+fun\cloudtour\feign\UserBankServiceFeign.class
+fun\cloudtour\dto\UserBankDto.class
+fun\cloudtour\feign\UserServiceFeign.class
+fun\cloudtour\dto\UserDto.class

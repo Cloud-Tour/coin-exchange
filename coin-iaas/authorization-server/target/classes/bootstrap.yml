@@ -1,0 +1,14 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: authorization-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.101.65:8848
+  datasource:
+    url: jdbc:mysql://192.168.101.65:3306/coin-exchange?useSSL=false&serverTimezon=GMT%28
+    username: root
+    password: mysql
+    driver-class-name: com.mysql.cj.jdbc.Driver
